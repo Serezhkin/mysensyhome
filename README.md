@@ -1,1 +1,4 @@
 # mysensyhome
++ license
++ features
++ version
